@@ -1,0 +1,146 @@
+/*
+  Localizable.strings
+  OrderAroundRestaurant
+
+  Created by Steven on 25/04/19.
+  Copyright © 2019 Steven.All rights reserved.
+*/
+
+
+"localize.password" = "Contraseña";
+"localize.donthanve" = "No tengo una cuenta.";
+"localize.register" = "Registrarse";
+"localize.login" = "Iniciar sesión";
+
+"localize.Home" = "Home";
+"localize.Revenue" = "Ingresos";
+"localize.Dishes" = "Platos";
+"localize.Profile" = "Perfil";
+
+"localize.history" = "Historial";
+"localize.editrestaurant" = "Editar Restaurante";
+"localize.edittiming" = "Editar horario";
+"localize.Deliveries" = "Entregas";
+"localize.changePassword" = "Cambiar contraseña";
+"localize.changeLanguage" = "Cambiar Idioma";
+"localize.logout" = "Cerrar sesión";
+"localize.deleteAccount" = "Eliminar cuenta";
+"localize.deleteAccountDescr" = "¿Estás seguro de que quieres eliminar tu cuenta?";
+"localize.logoutDescr" = "¿Estás seguro de que quieres cerrar sesión?";
+
+"localize.waiting" = "ESPERANDO LA PRÓXIMA TAREA";
+
+"localize.totalRevenue" = "Ingresos totales";
+"localize.orderReceived" = "Pedido recibido";
+"localize.orderDelivered" = "Pedido entregado";
+"localize.todayEarnings" = "Ganancias de hoy";
+"localize.monthlyEarnings" = "Ganancias mensuales";
+"localize.orderCancelled" = "Pedido cancelado";
+
+"localize.orderConfirmed" = "Pedido confirmado";
+"localize.orderProcessed" = "Pedido procesado";
+"localize.orderPickedUp" = "Pedido recogido";
+
+"localize.addons" = "ADICIONES";
+"localize.category" = "CATEGORIA";
+"localize.product" = "PRODUCTO";
+
+"localize.addonsList" = "Lista de adiciones";
+"localize.addAddons" = "Agregar adición";
+
+"localize.categoryList" = "Lista de categoría";
+"localize.addCategories" = "Agregar categorías";
+
+"localize.productList" = "Lista de productos";
+"localize.addProducts" = "Agregar productos";
+
+"localize.createProduct" = "Crear producto";
+"localize.name" = "Nombre";
+"localize.description" = "Descripción";
+"localize.productCusine" = "Producto de la Cocina";
+"localize.status" = "Estado";
+"localize.productOrder" = "Orden de producto";
+"localize.Category" = "Categoría";
+"localize.imageUpload" = "Subir foto";
+"localize.Isfeatured" = "¿Es este un producto destacado?";
+"localize.yes" = "SI";
+"localize.no" = "NO";
+"localize.next" = "Siguiente";
+"localize.price" = "Precio";
+"localize.discountType" = "Tipo de descuento";
+"localize.discount" = "Descuento";
+"localize.selectAddons" = "Seleccionar adición";
+"localize.categoryOrder" = "Orden de categoría";
+"localize.save" = "Guardar";
+
+"localize.editRestaurant" = "Editar Restaurante";
+"localize.editTiming" = "Editar horario";
+"localize.everyday" = "Todos los días";
+"localize.openTime" = "Abre";
+"localize.closeTime" = "Cierra";
+
+"localize.deleteCategory" = "¿Estás seguro de que quieres eliminar la categoría?";
+"localize.deleteProduct" = "¿Estás seguro de que quieres eliminar el producto?";
+
+"localize.ongoingOrder" = "Pedidos en curso";
+"localize.pastOrder" = "Pedidos anteriores";
+"localize.cancelOrder" = "Cancelar pedidos";
+
+// "localize.deleteAccountDescr" = "¿Estás seguro de que quieres eliminar tu cuenta?"
+"localize.appName" = "RestaurantAround";
+// "localize.logout" = "¿Estás seguro de que quieres cerrar sesión?"
+
+"localize.OK" = "OK";
+"localize.countryNumber" = "+56";
+"localize.countryCode" = "CL";
+
+"localize.subTotal" = "Sub Total";
+"localize.deliverycharge" = "Costo de envío";
+"localize.tax" = "Impuesto";
+"localize.payable" = "Pago";
+"localize.total" = "Total";
+
+"localize.emailAddr" = "Dirección de correo electrónico";
+"localize.cuisine" = "Cocina";
+"localize.phonenumber" = "Número de teléfono";
+"localize.shopbannerImage" = "Banner de la tienda";
+"localize.isthisveg" = "¿Es este un restaurante vegetariano?";
+"localize.minAmount" = "Cantidad mínima";
+"localize.offerinper" = "Oferta en porcentaje";
+"localize.maxdelivery" = "Tiempo máximo de entrega (minutos)";
+"localize.address" = "Dirección";
+"localize.landmark" = "Punto de referencia";
+
+
+"localize.currentPassword" = "Contraseña actual";
+"localize.newPassword" = "Nueva contraseña";
+"localize.confirmPassword" = "Confirmar contraseña";
+
+"localize.filterby" = "Filtrar por";
+"localize.deliveryPer" = "Repartidor";
+"localize.selectdeliveryperson" = "Seleccionar repartidor";
+"localize.All" = "Todo";
+"localize.Completed" = "Completado";
+"localize.Cancelled" = "Cancelado";
+"localize.from" = "Desde";
+"localize.to" = "Hacia";
+"localize.filter" = "Filtrar";
+"localize.alreadyRegister" = "¿Ya estás registrado? Iniciar sesión";
+
+"localize.English" = "Inglés";
+"localize.Arabic" = "Árabe";
+"localize.Spanish" = "Español";
+"localize.featuredImageUpload" = "Cargar imagen destacada";
+"localize.accept" = "Aceptar";
+"localize.cancel" = "Cancelar";
+"localize.orderDeiveryTime" = "Ingresa el tiempo de preparación del pedido";
+"localize.enterPreparationTime" = "¿En cuantos minutos debe llegar el repartidor a recogerlo?";
+
+"localize.description1" = "Hemos recibido tu pedido";
+"localize.description2" = "Tu pedido ha sido confirmado";
+"localize.description3" = "Tu comida se está cocinando";
+"localize.description4" = "Tu comida está en camino";
+"localize.description5" = "Disfruta tu comida";
+"localize.orderList" = "Lista de la orden";
+"localize.orderTime" = "Tiempo de la orden";
+"localize.notes" = "Notas";
